@@ -13,7 +13,7 @@ There is simple transliteration global object.
 For transliterating simple do this
 
 ```
-  npm install transliteration.cyr
+  npm install ikhahmedov/transliteration.cyr#master
 ```
 and this
 
